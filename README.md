@@ -32,4 +32,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 9. Kabaddi
 10. table tennis
 11. Kabaddi
-12. badminton
+12. Football (soccer)
+13. Kabaddi  
+14. Bouldering
+15. Kabaddi
+16. badminton
