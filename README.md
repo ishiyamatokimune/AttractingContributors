@@ -20,3 +20,5 @@ Goal - I want contributors to help me list some favorite video games.
 
 # List of Video Games.
 1. Dragon Quest Builders 2
+2. Hollow Knight
+3. Rythmn Doctor
