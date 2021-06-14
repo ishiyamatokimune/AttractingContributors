@@ -31,4 +31,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 8. salmon
 9. サラダツリー軍艦
 10. イカ
-11. アボカド生ハムパイナップル寿司
+11. 鯛
+12. アボカド生ハムパイナップル寿司
