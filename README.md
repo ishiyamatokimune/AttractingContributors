@@ -26,4 +26,5 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 3. Ikura
 4. サーモン
 5. えんがわ
-6. Egg
+6. Omelet
+7. Egg
