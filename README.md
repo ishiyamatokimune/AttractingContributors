@@ -29,3 +29,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 6. Omelet
 7. Egg
 8. salmon
+9. サラダツリー軍艦
