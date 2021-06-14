@@ -30,3 +30,4 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 7. Egg
 8. salmon
 9. サラダツリー軍艦
+10. イカ
