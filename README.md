@@ -23,3 +23,4 @@ Goal - I want contributors to help me list some favorite video games.
 2. Hollow Knight
 3. Rythmn Doctor
 4. Kingdom Hearts 2
+5. Minecraft
